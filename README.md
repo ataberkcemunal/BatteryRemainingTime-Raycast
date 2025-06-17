@@ -31,8 +31,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/BatteryTimer.git
-   cd BatteryTimer
+   git clone https://github.com/ataberkcemunal/BatteryRemainingTime-Raycast.git
+   cd BatteryRemainingTime-Raycast
    ```
 
 2. **Install dependencies**
@@ -94,7 +94,7 @@ The extension automatically configures itself with optimal settings:
 
 ### Project Structure
 ```
-BatteryTimer/
+BatteryRemainingTime-Raycast/
 ├── src/
 │   └── battery-status.tsx    # Main extension logic
 ├── assets/                   # Extension assets
